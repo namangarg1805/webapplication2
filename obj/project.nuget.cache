@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9HAgLhCc9ORsMeUIUfC08R+puftUjZD9NID39rjrHNpHW+kOTjh/+SiL4Ze3YDZ1SFLznRZCFA6pHToPCPa/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
